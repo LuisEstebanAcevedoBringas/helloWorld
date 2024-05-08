@@ -7,10 +7,10 @@
 
 ### C++
 1) Compile the code using the following command `g++ hello.cpp -o hello`
-2) Run `./hello` on MacOS or  `hello.exe` on windows.
+2) Run `./hello` on MacOS or  `hello.exe` on Windows.
 
 ### C#
-1) Download ".NET SDK" form the official [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+1) Download ".NET SDK" from the official [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 2) Compile the code using the following command `dotnet new console -o HelloApp`
     
     2.1) This command creates a new folder HelloWorldApp with a basic template for a console application. Move the file **"Hello.cs"** file to this folder, replacing the automatically created "Program.cs".
@@ -19,23 +19,23 @@
 5) Run the executable `dotnet run`
 
 ### Ruby
-1) Install Ruby using use `brew install ruby` on MacOS or download it from [here](RubyInstaller.org) if you are using windows.
+1) Install Ruby using use `brew install ruby` on MacOS or download it from [here](RubyInstaller.org) if you are using Windows.
 2) run `ruby hello.rb`
 
 ### PHP
 
-1) Install PHP using `brew install php`  on MacOS or install it using XAMPP or WAMP on windows.
+1) Install PHP using `brew install php`  on MacOS or install it using XAMPP or WAMP on Windows.
 2) Start PHP's built-in web server by running the command `php -S localhost:8000`
 3) Open your web browser and navigate to `http://localhost:8000/hello.php`
 
 
-## Next Languagues:
+## Next Languages:
 
 ### JavaScript
 
 ### TypeScript
 
-### Asambly
+### Assembly
 
 ### Go
 
