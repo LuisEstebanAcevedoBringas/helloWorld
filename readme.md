@@ -28,6 +28,11 @@
 2) Start PHP's built-in web server by running the command `php -S localhost:8000`
 3) Open your web browser and navigate to `http://localhost:8000/hello.php`
 
+### Go
+
+1) Install PHP using `brew install go`  on MacOS or download it from [here](https://go.dev/) on windows.
+2) Run `go run hello.go`
+
 
 ## Next Languages:
 
