@@ -18,7 +18,7 @@
 4) Compile your application `dotnet build`
 5) Run the executable `dotnet run`
 
-### Ruby
+### Ruby
 1) Install Ruby using use `brew install ruby` on MacOS or download it from [here](RubyInstaller.org) if you are using windows.
 1) run `ruby hello.rb`
 
