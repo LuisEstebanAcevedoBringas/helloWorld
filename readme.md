@@ -20,7 +20,14 @@
 
 ### Ruby
 1) Install Ruby using use `brew install ruby` on MacOS or download it from [here](RubyInstaller.org) if you are using windows.
-1) run `ruby hello.rb`
+2) run `ruby hello.rb`
+
+### PHP
+
+1) Install PHP using `brew install php`  on MacOS or install it using XAMPP or WAMP on windows.
+2) Start PHP's built-in web server by running the command `php -S localhost:8000`
+3) Open your web browser and navigate to `http://localhost:8000/hello.php`
+
 
 ## Next Languagues:
 
@@ -29,8 +36,6 @@
 ### TypeScript
 
 ### Asambly
-
-### PHP
 
 ### Go
 
