@@ -41,7 +41,7 @@
 
 ### R
 
-1) Install Java JDK using `brew install r` on MacOS or download the installer from CRAN on Windows.
+1) Install R using `brew install r` on MacOS or download the installer from CRAN on Windows.
 2) Run `Rscript hello.R`
 
 
