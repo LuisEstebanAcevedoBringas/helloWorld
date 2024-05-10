@@ -20,7 +20,7 @@
 
 ### Ruby
 1) Install Ruby using use `brew install ruby` on MacOS or download it from [here](RubyInstaller.org) if you are using Windows.
-2) run `ruby hello.rb`
+2) Run `ruby hello.rb`
 
 ### PHP
 
@@ -30,9 +30,14 @@
 
 ### Go
 
-1) Install PHP using `brew install go`  on MacOS or download it from [here](https://go.dev/) on windows.
+1) Install PHP using `brew install go`  on MacOS or download it from [here](https://go.dev/) on Windows.
 2) Run `go run hello.go`
 
+### Java
+
+1) Install Java JDK using `brew install openjdk` on MacOS or download the installer from Oracle or OpenJDK on Windows.
+2) Compilte the code using `javac hello.java`
+3) Run `java hello`
 
 ## Next Languages:
 
@@ -41,7 +46,5 @@
 ### TypeScript
 
 ### Assembly
-
-### Go
 
 ### C
