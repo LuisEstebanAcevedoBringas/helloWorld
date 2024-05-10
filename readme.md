@@ -39,6 +39,12 @@
 2) Compilte the code using `javac hello.java`
 3) Run `java hello`
 
+### R
+
+1) Install Java JDK using `brew install r` on MacOS or download the installer from CRAN on Windows.
+2) Run `Rscript hello.R`
+
+
 ## Next Languages:
 
 ### JavaScript
