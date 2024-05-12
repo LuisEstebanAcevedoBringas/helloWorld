@@ -1,9 +1,9 @@
 # Hello world!
 
-## A repository dedicated to upload a script in every single language just to say **"Hello world!"**
+## A repository dedicated to uploading a script in every single language just to say **"Hello world!"**
 
 ### Python
-1) run `python3 hello.py`
+1) Run `python3 hello.py`
 
 ### C++
 1) Compile the code using the following command `g++ hello.cpp -o hello`
@@ -41,8 +41,14 @@
 
 ### R
 
-1) Install R using `brew install r` on MacOS or download the installer from CRAN on Windows.
+1) Install Java JDK using `brew install r` on MacOS or download the installer from CRAN on Windows.
 2) Run `Rscript hello.R`
+
+### Rust
+
+1) Install Rust running the following command in your terminal `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` on Windows or MacOS.
+2) Compile the code using the command `rustc hello.rs`
+3) Run `./hello`
 
 
 ## Next Languages:
